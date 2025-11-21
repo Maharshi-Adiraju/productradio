@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # About Product Radio
 
 **Product Radio** is founded by Maharshi A, blending product strategy with storytelling.  
