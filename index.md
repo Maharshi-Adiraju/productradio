@@ -9,6 +9,8 @@ title: Product Radio
 # 🎙️ Product Radio
 *Tuning into AI & Product Strategy*
 
+<img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius: 50%;" />
+
 Welcome to **Product Radio**, broadcasting insights on AI, product innovation, and leadership.
 
 ## Latest Broadcast
@@ -16,7 +18,5 @@ Welcome to **Product Radio**, broadcasting insights on AI, product innovation, a
 
 ## Connect
 - [LinkedIn](https://linkedin.com/company/productradio)
-- [Twitter/X](https://x.com/product_radio)
 - [Substack](https://productradio.substack.com)
-- [YouTube](https://youtube.com/@productradio)
 - [Medium](https://medium.com/@productradio)
