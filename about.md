@@ -1,3 +1,4 @@
+<img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius: 50%;" />
 # About
 
 Great products come from **thinking like a business, building like a technologist, and leading with vision.**  
