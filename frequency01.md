@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 # Frequency 01: Agentic AI and the Future of Product Teams
 
 🎙️ In this opening broadcast, we explore how **Agentic AI** is reshaping product teams.  
