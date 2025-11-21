@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Frequency 01
+title: From Workflows to Agents
+parent: Agentic AI
+nav_order: 1
 ---
 
 # Frequency 01: From Workflows to Agents — Introduction to Agentic AI
