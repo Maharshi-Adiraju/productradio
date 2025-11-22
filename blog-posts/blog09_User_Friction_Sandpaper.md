@@ -1,3 +1,9 @@
+---
+layout: page
+title: "User Friction Is Like Sandpaper"
+permalink: /blog-posts/blog09_User_Friction_Sandpaper/
+---
+
 # User Friction Is Like Sandpaper ✨
 
 **Use it to shape, not scrape.**
