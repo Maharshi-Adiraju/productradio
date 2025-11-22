@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Hybrid Search: Finding the Best Burger"
+permalink: /blog-posts/blog05_Hybrid_Search/
+---
+
 # Hybrid Search: Finding the Best Burger 🍔
 
 Imagine you’re looking for the best burger in town. You could:  
