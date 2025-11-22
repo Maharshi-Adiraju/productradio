@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AI is the New Electricity"
-permalink: /blog-posts/blog01_AI-New-Electricity/
+permalink: /blog-posts/blog01_AI-New-Electricity.md/
 ---
 
 # AI is the New Electricity ⚡
