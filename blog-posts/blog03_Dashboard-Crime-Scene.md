@@ -1,3 +1,9 @@
+---
+layout: page
+title: "The Dashboard is a Crime Scene"
+permalink: /blog-posts/blog03_Dashboard-Crime-Scene/
+---
+
 # The Dashboard is a Crime Scene 🕵️‍♂️
 
 Your dashboard isn’t telling you what happened.  
