@@ -1,3 +1,9 @@
+---
+layout: page
+title: "AI is the New Electricity"
+permalink: /blog-posts/blog01_AI-New-Electricity/
+---
+
 # AI is the New Electricity ⚡
 
 > “AI is the new electricity and will transform and improve nearly all areas of human lives.”  
