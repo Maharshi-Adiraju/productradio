@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Too Many Priorities? Give Everyone $100 and Watch What Happens"
+permalink: /blog-posts/blog11__Too-Many-Priorities/
+---
+
 # 🎯 Too Many Priorities? Give Everyone $100 and Watch What Happens
 
 Ever sat in a meeting where every team insists their feature is top priority?  
