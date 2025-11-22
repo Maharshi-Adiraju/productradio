@@ -1,3 +1,9 @@
+---
+layout: page
+title: "AI in Product Design"
+permalink: /blog-posts/blog04_AI_ProductDesign/
+---
+
 # AI in Product Design ☕
 
 AI in product design is like an espresso shot.  
