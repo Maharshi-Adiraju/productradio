@@ -1,9 +1,7 @@
 title: Product Radio
 description: Tuning into AI & Product Strategy
 theme: minima
-
 header_pages:
   - index.md
-  - about.md
-  - broadcasts.md
   - agentic-ai.md
+  - blog-posts.md
