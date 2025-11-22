@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Building New Gravity"
+permalink: /blog-posts/blog02_Building_New_Gravity/
+---
+
 # Building New Gravity 🌌
 
 As Product Managers, we need to stop going in circles and start building new gravity.
