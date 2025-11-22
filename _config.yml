@@ -1,5 +1,7 @@
 title: Product Radio
 description: Tuning into AI & Product Strategy
+url: "https://maharshi-adiraju.github.io/"   # replace with your GitHub Pages URL
+baseurl: "/productradio"            # the repository name
 theme: minima
 header_pages:
   - index.md
