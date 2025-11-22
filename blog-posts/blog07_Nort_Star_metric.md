@@ -1,3 +1,9 @@
+---
+layout: page
+title: "The North Star Metric"
+permalink: /blog-posts/blog07_Nort_Star_metric/
+---
+
 # The North Star Metric 🌟
 
 Lost in a sea of metrics? You’re not alone.  
