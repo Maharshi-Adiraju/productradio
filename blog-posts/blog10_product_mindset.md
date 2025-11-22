@@ -1,3 +1,9 @@
+---
+layout: page
+title: "The Product Mindset"
+permalink: /blog-posts/blog10_product_mindset/
+---
+
 # 🧠 The Product Mindset: Aligning with Business Goals for Success
 
 In today’s fast-changing world, a Product Manager’s mindset plays a vital role in creating products that meet both business objectives and customer needs.  
