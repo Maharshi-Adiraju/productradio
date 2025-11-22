@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Stop Building Castles. Start with a Tent."
+permalink: /blog-posts/blog08_castles-vs-tent/
+---
+
 # Stop Building Castles. Start with a Tent. ⛺🏰
 
 We often obsess over creating the perfect product — fully polished, feature-packed, and "ready" for success.  
