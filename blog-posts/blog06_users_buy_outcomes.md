@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Users Buy Outcomes, Not Features"
+permalink: /blog-posts/blog06_users_buy_outcomes/
+---
+
 # Users Buy Outcomes, Not Features 🎯
 
 Your users aren’t just personas — they’re people trying to get something done.
