@@ -53,7 +53,7 @@ In a world of fast outputs, reflection is your product’s edge.
 ◀️ Previous: [From Workflows to Agents: Introduction to Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency01/)  
 ▶️ Next: *Toolbelt Thinking — how agents select, combine, and invent tools to solve problems dynamically* 
 
-I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — signals I’m broadcasting through Product Radio, my new experiment in product storytelling.  
+I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — my new experiment in broadcasting product signals. 
 
 *— Maharshi Adiraju | Product Radio*
 
