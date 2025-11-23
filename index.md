@@ -23,6 +23,10 @@ My approach is simple:
 I bring clarity to ambiguity, momentum to teams, and structure to bold ideas.  
 Passionate about building products that create lasting impact, I remain committed to leading with vision, agility, and a relentless focus on delivering measurable value.
 
+---
+
+
+
 # 🎙️ Welcome to Product Radio - my new experiment in broadcasting product signals.
 
 I started **Product Radio** to share the principles and practices that have guided me throughout my career.
@@ -34,6 +38,8 @@ Through short broadcasts, frameworks, and stories, my goal is to help teams and 
 👉 Follow along if you’re passionate about product leadership, AI-powered solutions, and shaping the future of how we build.
 
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/maharshiadiraju/)
-- [Substack](https://substack.com/@productradio?utm_campaign=profile&utm_medium=profile-page)
+## Connect with Me
+
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maharshiadiraju" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#0A66C2; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
+📡 Follow me on LinkedIn
+</a>
