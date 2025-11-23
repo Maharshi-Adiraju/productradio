@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Frequency 01: From Workflows to Agents"
+title: "From Workflows to Agents — Introduction to Agentic AI"
 permalink: /agentic-ai/frequency01/
 ---
 
-# Frequency 01: From Workflows to Agents — Introduction to Agentic AI
+# From Workflows to Agents — Introduction to Agentic AI
 
 In product management, we often design workflows that are predictable, repeatable, and efficient. But what happens when the problem isn’t fully known in advance—or when the environment changes midstream?
 
@@ -69,5 +69,10 @@ Evaluation is as important as design:
 Agentic AI is more than a technical upgrade. It’s a **strategic shift in product design**.  
 By embracing autonomy, we move from building features to building adaptive agents inside our products.
 
-👉 Stay tuned for Frequency 02: *Mirror, Mirror — The Reflection Pattern.*
+📡 Agentic AI Series Navigation  
 
+◀️ Next: [Mirror, Mirror: The Reflection Pattern in Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency02/)  
+
+I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — signals I’m broadcasting through Product Radio, my new experiment in product storytelling.  
+
+*— Maharshi Adiraju | Product Radio*
