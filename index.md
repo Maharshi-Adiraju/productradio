@@ -23,7 +23,7 @@ My approach is simple:
 I bring clarity to ambiguity, momentum to teams, and structure to bold ideas.  
 Passionate about building products that create lasting impact, I remain committed to leading with vision, agility, and a relentless focus on delivering measurable value.
 
-# 🎙️ Welcome to Product Radio - my new experiment in product storytelling.
+# 🎙️ Welcome to Product Radio - my new experiment in broadcasting product signals.
 
 I started **Product Radio** to share the principles and practices that have guided me throughout my career.
 
