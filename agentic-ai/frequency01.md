@@ -73,6 +73,6 @@ By embracing autonomy, we move from building features to building adaptive agent
 
 ◀️ Next: [Mirror, Mirror: The Reflection Pattern in Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency02/)  
 
-I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — signals I’m broadcasting through Product Radio, my new experiment in product storytelling.  
+I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — my new experiment in broadcasting product signals.
 
 *— Maharshi Adiraju | Product Radio*
