@@ -72,7 +72,7 @@ In a world where speed alone isn’t enough, **Dynamic Tooling is how you build 
 📡 Agentic AI Series Navigation  
 
 ◀️ Previous: [From Workflows to Agents: Introduction to Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency01/)  
-◀️ Previous: [Mirror, Mirror: The Reflection Pattern in Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency02/) 
+◀️ Previous: [Mirror, Mirror: The Reflection Pattern in Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency02/)   
 ▶️ Next: *Building Agents — From Pattern to Architecture* 
 
 I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — my new experiment in broadcasting product signals. 
