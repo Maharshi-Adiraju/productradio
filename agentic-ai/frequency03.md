@@ -69,8 +69,12 @@ By equipping agents with flexible tools, products become modular, scalable, and 
 In a world where speed alone isn’t enough, **Dynamic Tooling is how you build agents that deliver outcomes.**
 
 ---
+📡 Agentic AI Series Navigation  
 
-I’m exploring these ideas through **Product Radio** — my new experiment in broadcasting product signals.
+◀️ Previous: [From Workflows to Agents: Introduction to Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency01/)  
+◀️ Previous: [Mirror, Mirror: The Reflection Pattern in Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency02/) 
+▶️ Next: *Building Agents — From Pattern to Architecture* 
 
-**Previous**: *Mirror, Mirror — The Reflection Pattern in Agentic AI*  
-💡 **Next up**: *Building Agents — From Pattern to Architecture*
+I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — my new experiment in broadcasting product signals. 
+
+*— Maharshi Adiraju | Product Radio*
