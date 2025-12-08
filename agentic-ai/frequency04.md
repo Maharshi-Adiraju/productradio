@@ -54,5 +54,13 @@ When you design them block by block and refine them with evals and error analysi
 
 I’m exploring these ideas through **Product Radio** — my new experiment in broadcasting product signals.  
 
-**Previous:** Transmission 3: *Dynamic Tooling — The Tool Use Pattern in Agentic AI*  
-**Next up:** Transmission 5: *Patterns for Highly Autonomous Agents*
+📡 Agentic AI Series Navigation  
+
+◀️ Previous: [From Workflows to Agents: Introduction to Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency01/)  
+◀️ Previous: [Mirror, Mirror: The Reflection Pattern in Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency02/)   
+◀️ Previous: [Dynamic Tooling — The Tool Use Pattern](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency03/)   
+▶️ Next: Transmission 5: *Patterns for Highly Autonomous Agents*
+
+I’m exploring these ideas through [**Product Radio**](https://maharshi-adiraju.github.io/productradio/) — my new experiment in broadcasting product signals. 
+
+*— Maharshi Adiraju | Product Radio*
