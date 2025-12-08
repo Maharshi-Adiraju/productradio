@@ -52,8 +52,6 @@ When you design them block by block and refine them with evals and error analysi
 
 📡 Transmission ends here, but the frequency lives on in your product thinking.  
 
-I’m exploring these ideas through **Product Radio** — my new experiment in broadcasting product signals.  
-
 📡 Agentic AI Series Navigation  
 
 ◀️ Previous: [From Workflows to Agents: Introduction to Agentic AI](https://maharshi-adiraju.github.io/productradio/agentic-ai/frequency01/)  
