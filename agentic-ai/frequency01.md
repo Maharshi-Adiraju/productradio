@@ -1,9 +1,3 @@
----
-layout: page
-title: "From Workflows to Agents — Introduction to Agentic AI"
-permalink: /agentic-ai/frequency01/
----
-
 # 📡 Transmission 1: From Workflows to Agents — Introduction to Agentic AI
 
 In product management, we often design workflows that are predictable, repeatable, and efficient. But what happens when the problem isn’t fully known in advance—or when the environment changes midstream?
