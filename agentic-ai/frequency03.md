@@ -1,4 +1,4 @@
-# ⚒️ Dynamic Tooling — The Tool Use Pattern
+# 📡 Transmission 3: Dynamic Tooling — The Tool Use Pattern
 
 In traditional workflows, intelligence ends at the answer. But agentic products go further.  
 They don’t just think; they **act**.
