@@ -1,9 +1,3 @@
----
-layout: post
-title: "Mirror, Mirror: The Reflection Pattern in Agentic AI"
-permalink: /agentic-ai/frequency02/
----
-
 # 📡 Transmission 2: Mirror, Mirror: The Reflection Pattern in Agentic AI
 
 Traditional workflows ship outputs in a single pass.  
