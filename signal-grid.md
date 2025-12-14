@@ -10,7 +10,14 @@ permalink: /signalgrid/
 
 Tune in and trace the frequency. Connect every signal in order, fill the grid exactly once, and complete the broadcast.
 
-👉 [Play Signal Grid](https://maharshi-adiraju.github.io/zip-puzzle-game/)
+<div style="text-align:center; margin:40px 0;">
+  <a href="https://maharshi-adiraju.github.io/zip-puzzle-game/" target="_blank"
+     style="display:inline-block; padding:20px 40px; background-color:#2D9CDB; 
+            color:#fff; text-decoration:none; border-radius:12px; font-size:1.5em; 
+            font-weight:bold; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    🎮 Play Signal Grid
+  </a>
+</div>
 
 ---
 
