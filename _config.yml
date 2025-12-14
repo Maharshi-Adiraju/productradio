@@ -5,6 +5,6 @@ baseurl: "/productradio"            # the repository name
 theme: minima
 header_pages:
   - index.md
-  -signal-grid.md
+  - signal-grid.md
   - agentic-ai.md
   - blog-posts.md
