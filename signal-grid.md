@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Signal Grid
+title: 🎮 Play Signal Grid
 permalink: /signalgrid/
 ---
 
