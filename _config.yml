@@ -4,7 +4,7 @@ url: "https://maharshi-adiraju.github.io/"   # replace with your GitHub Pages UR
 baseurl: "/productradio"            # the repository name
 theme: minima
 header_pages:
-  - index.md
+ 
   - signal-grid.md
   - agentic-ai.md
   - blog-posts.md
