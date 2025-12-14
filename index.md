@@ -37,9 +37,19 @@ Through short broadcasts, frameworks, and stories, my goal is to help teams and 
 
 👉 Follow along if you’re passionate about product leadership, AI-powered solutions, and shaping the future of how we build.
 
+---
 
 ## Connect with Me
 
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=maharshiadiraju" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#0A66C2; color:#fff; text-decoration:none; border-radius:6px; font-weight:bold;">
 📡 Follow me on LinkedIn
 </a>
+
+---
+
+# 🎮 Signal Grid — An Interactive Transmission
+
+Tune in and trace the frequency.  
+Connect every signal in order, fill the grid, and complete today’s transmission.  
+
+👉 [Play Signal Grid](https://maharshi-adiraju.github.io/zip-puzzle-game/)
