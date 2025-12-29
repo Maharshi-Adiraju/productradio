@@ -6,6 +6,13 @@ This is where **Agentic AI workflows** step in.
 
 ---
 
+Here’s a visual breakdown of how Agentic AI principles map to product leadership:
+
+![Workflows to Agents](productradio/assets/agenticai/From_Workflows_to_Agents.pdf)
+
+
+
+---
 ## 🎯 What Makes a Workflow Agentic?
 Traditional (non-agentic) systems follow rigid, predetermined steps. They’re reliable but limited.  
 Agentic workflows, on the other hand, are adaptive processes powered by large language models (LLMs) that can:
