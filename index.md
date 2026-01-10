@@ -6,12 +6,12 @@ title: Product Radio
 <link rel="stylesheet" href="style.css">
 <img src="assets/banner.png" alt="Product Radio Banner" width="100%" />
 
-<div style="display:flex; align-items:left; gap:30px; justify-content:center; margin:40px 0;">
-  <!-- Profile Image -->
+<div style="display:flex; align-items:center; gap:40px; justify-content:flex-start; margin:40px 0;">
+  <!-- Profile Image (aligned left) -->
   <img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius:50%;" />
 
   <!-- Credly Badge -->
-  <div data-iframe-width="150" data-iframe-height="270"
+  <div data-iframe-width="300" data-iframe-height="540"
        data-share-badge-id="5b01ac59-9511-47fe-a9ed-4051a192da29"
        data-share-badge-host="https://www.credly.com"></div>
   <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
