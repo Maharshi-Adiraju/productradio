@@ -6,7 +6,7 @@ title: Product Radio
 <link rel="stylesheet" href="style.css">
 <img src="assets/banner.png" alt="Product Radio Banner" width="100%" />
 
-<div style="display:flex; align-items:center; gap:40px; justify-content:flex-start; margin:40px 0;">
+<div style="display:flex; align-items:center; justify-content:flex-start; margin:40px 0;">
   <!-- Profile Image (aligned left) -->
   <img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius:50%;" />
 
