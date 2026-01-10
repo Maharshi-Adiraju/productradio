@@ -17,16 +17,6 @@ title: Product Radio
   <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
-<div style="display:flex; align-items:center; gap:30px; justify-content:flex-start; margin:40px 0;">
-  <!-- Profile Image (aligned left) -->
-  <img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius:50%;" />
-
-  <!-- Credly Badge (wider) -->
-  <div data-iframe-width="300" data-iframe-height="540"
-       data-share-badge-id="5b01ac59-9511-47fe-a9ed-4051a192da29"
-       data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
 
 # Hi, I am Maharshi Adiraju 👋
 
