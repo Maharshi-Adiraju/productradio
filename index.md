@@ -45,6 +45,11 @@ Through short broadcasts, frameworks, and stories, my goal is to help teams and 
 📡 Follow me on LinkedIn
 </a>
 
+<div data-iframe-width="150" data-iframe-height="270"
+     data-share-badge-id="5b01ac59-9511-47fe-a9ed-4051a192da29"
+     data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 
 # 🎮 Signal Grid — An Interactive Transmission
