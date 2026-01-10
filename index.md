@@ -6,8 +6,16 @@ title: Product Radio
 <link rel="stylesheet" href="style.css">
 <img src="assets/banner.png" alt="Product Radio Banner" width="100%" />
 
-<img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius: 50%;" />
+<div style="display:flex; align-items:center; gap:30px; justify-content:center; margin:40px 0;">
+  <!-- Profile Image -->
+  <img src="assets/profile.jpg" alt="Maharshi Adiraju" width="200px" style="border-radius:50%;" />
 
+  <!-- Credly Badge -->
+  <div data-iframe-width="150" data-iframe-height="270"
+       data-share-badge-id="5b01ac59-9511-47fe-a9ed-4051a192da29"
+       data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 # Hi, I am Maharshi Adiraju 👋
 
 Great products come from **thinking like a business, building like a technologist, and leading with vision.**  
